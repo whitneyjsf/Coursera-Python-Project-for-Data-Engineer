@@ -1,0 +1,6 @@
+2024-12-19 12:01:45 : Data extraction complete. Initiating Transformation process.
+2024-12-19 12:01:46 : Data extraction complete. Initiating Transformation process.
+2024-12-19 12:01:47 : Data transformation complete. Columns added for GBP, EUR, INR.
+2024-12-19 12:01:48 : Data extraction complete. Initiating Transformation process.
+2024-12-19 12:01:49 : Data transformation complete. Columns added for GBP, EUR, INR.
+2024-12-19 12:01:49 : Data successfully loaded to ./Largest_banks_data.csv.
